@@ -234,6 +234,4 @@ The following supporting screenshots document isolated execution stages,
 
 ---
 
-## Author
 
-DevOps Automated Infrastructure Solutions Lab Project
