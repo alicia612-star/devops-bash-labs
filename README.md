@@ -133,7 +133,7 @@ located in the root workspace folder.
 # Lab Execution Verification Proofs
 
 ## Lab 1 — Service Recovery Telemetry Log View
-![Lab 1 Output](lab1_output.png)
+![Lab 1 Output](assets/lab1_output.png)
 
 Displays:
 
@@ -144,7 +144,7 @@ Displays:
 ---
 
 ## Lab 3 — System Infrastructure Performance Summary
-![Lab 3 Output](lab3_output.png)
+![Lab 3 Output](assets/lab3_output.png)
 
 Displays compiled infrastructure reports detailing:
 
@@ -155,13 +155,13 @@ Displays compiled infrastructure reports detailing:
 ---
 
 ## Challenge 1 — Sysadmin Interactive Interface Loop
-![Challenge 1 Output](challenge1_output.png)
+![Challenge 1 Output](assets/challenge1_output.png)
 Displays the functional DevOps Utility UI menu layout within the active terminal session.
 
 ---
 
 ## Challenge 2 — Simulated IAM Accounts Provisioning Output
-![Challenge 2 Output](challenge2_output.png)
+![Challenge 2 Output](assets/challenge2_output.png)
 Displays generated mock email notifications mapping:
 
 * User credentials
@@ -175,25 +175,25 @@ Displays generated mock email notifications mapping:
 
 ## Lab 1 Failover – Emergency Restart Notification Trigger
 
-![Crash Alert](notif.png)
+![Crash Alert](assets/notif.png)
 
 ---
 
 ## Challenge 1 UI – Menu Option 1 & 2 (CPU/RAM Live Stats)
 
-![Option 1 and 2](option1-2.png)
+![Option 1 and 2](assets/option1-2.png)
 
 ---
 
 ## Challenge 1 UI – Menu Option 4 & 5 (Log Compression & Exit)
 
-![Option 4 and 5](option4-5.png)
+![Option 4 and 5](assets/option4-5.png)
 
 ---
 
 ## Challenge 2 IAM – Active Useradd Profile Creation Loops
 
-![Provisioning Loop](onboarding.png)
+![Provisioning Loop](assets/onboarding.png)
 
 The following supporting screenshots document isolated execution stages,
  menu selections, and system notifications captured during development.
