@@ -1,0 +1,33 @@
+--------------------------------------------------
+TO: alice_dev@company.local
+SUBJECT: Welcome to the Engineering Infrastructure Office
+
+Hello alice_dev,
+
+Your deployment account is ready.
+Username: alice_dev
+Temporary Password: kVqRZwW8qnNW
+Note: You will be required to change your password upon your first login.
+--------------------------------------------------
+--------------------------------------------------
+TO: bob_ops@company.local
+SUBJECT: Welcome to the Engineering Infrastructure Office
+
+Hello bob_ops,
+
+Your deployment account is ready.
+Username: bob_ops
+Temporary Password: 4SuFqIXDmbHU
+Note: You will be required to change your password upon your first login.
+--------------------------------------------------
+--------------------------------------------------
+TO: charlie_cloud@company.local
+SUBJECT: Welcome to the Engineering Infrastructure Office
+
+Hello charlie_cloud,
+
+Your deployment account is ready.
+Username: charlie_cloud
+Temporary Password: BXNsWYxp15vy
+Note: You will be required to change your password upon your first login.
+--------------------------------------------------
